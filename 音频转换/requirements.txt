@@ -1,0 +1,7 @@
+PySide6>=6.0.0
+pydub>=0.25.1
+# 音频信息获取方法的可选依赖
+pymediainfo>=5.0.0  # 用于MediaInfo方法
+av>=9.0.0  # 用于PyAV方法
+# 音频预处理可选依赖
+noisereduce>=2.0.0  # 用于更高级的降噪功能
